@@ -13,7 +13,7 @@ collections:
 500px_url:
 facebook_url:
 github_url: https://github.com/lyove
-gitlab_url: https://gitlab.com/u/lyove
+gitlab_url: https://gitlab.com/lyove
 
 # Build settings
 markdown: kramdown
