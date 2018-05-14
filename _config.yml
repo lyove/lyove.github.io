@@ -1,6 +1,6 @@
 # Site settings
-title: Lens
-description: Just another fine responsive site template by <a href="http://html5up.net">HTML5 UP</a>
+title: Lyove
+description: Just another fine responsive site template by <a href="http://lyove.com">Lyove</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
@@ -14,12 +14,6 @@ collections:
 facebook_url:
 github_url:
 gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url:
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-pinterest_url:
-slack_url:
-twitter_url: https://twitter.com/andrewbanchich
 
 # Build settings
 markdown: kramdown
