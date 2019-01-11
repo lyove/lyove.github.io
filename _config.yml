@@ -17,3 +17,5 @@ gitlab_url: https://gitlab.com/lyove
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
