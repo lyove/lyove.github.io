@@ -3,7 +3,7 @@
   "static/css/1.89a40631.chunk.css": "/music/static/css/1.89a40631.chunk.css",
   "static/js/1.f91e5190.chunk.js": "/music/static/js/1.f91e5190.chunk.js",
   "main.css": "/music/static/css/main.fd842a6c.chunk.css",
-  "main.js": "/music/static/js/main.9dedcc56.chunk.js",
+  "main.js": "/music/static/js/main.25e71e4c.chunk.js",
   "static/css/3.5796545b.chunk.css": "/music/static/css/3.5796545b.chunk.css",
   "static/js/3.d64a34b1.chunk.js": "/music/static/js/3.d64a34b1.chunk.js",
   "static/css/4.f6b8ddf9.chunk.css": "/music/static/css/4.f6b8ddf9.chunk.css",
@@ -26,6 +26,6 @@
   "static/img/playerlist.styl": "/music/static/img/play_bg.473725c8.jpg",
   "static/media/font.styl": "/music/static/media/icomusic.344286e4.eot",
   "index.html": "/music/index.html",
-  "precache-manifest.9678014ecdf2f6fb0f11ca12200027cf.js": "/music/precache-manifest.9678014ecdf2f6fb0f11ca12200027cf.js",
+  "precache-manifest.9a309a23ec1250d02f974e0778f2882c.js": "/music/precache-manifest.9a309a23ec1250d02f974e0778f2882c.js",
   "service-worker.js": "/music/service-worker.js"
 }

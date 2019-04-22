@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "/music/static/js/1.f91e5190.chunk.js"
   },
   {
-    "revision": "43d977f81ccc4293c4b630d780280c91",
-    "url": "/music/static/media/icomusic.43d977f8.ttf"
+    "revision": "5e1ec5298a862c49481da7fc770b4add",
+    "url": "/music/static/media/icomusic.5e1ec529.svg"
   },
   {
-    "revision": "9dedcc56e2a4d6c46711",
-    "url": "/music/static/js/main.9dedcc56.chunk.js"
+    "revision": "25e71e4c0e0c14493a4a",
+    "url": "/music/static/js/main.25e71e4c.chunk.js"
   },
   {
     "revision": "3207ca1a58ae1e36ad4bac122a6cfe9e",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/music/static/js/3.d64a34b1.chunk.js"
   },
   {
-    "revision": "5e1ec5298a862c49481da7fc770b4add",
-    "url": "/music/static/media/icomusic.5e1ec529.svg"
+    "revision": "43d977f81ccc4293c4b630d780280c91",
+    "url": "/music/static/media/icomusic.43d977f8.ttf"
   },
   {
     "revision": "291501c42811f4b6f63c",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/music/static/css/9.1bb1b83a.chunk.css"
   },
   {
-    "revision": "9dedcc56e2a4d6c46711",
+    "revision": "25e71e4c0e0c14493a4a",
     "url": "/music/static/css/main.fd842a6c.chunk.css"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/music/static/css/1.89a40631.chunk.css"
   },
   {
-    "revision": "3541ebd719e219eb0dd3dfbf679abafc",
+    "revision": "c1c9b1f456e40dcaeeb3450e21b829d2",
     "url": "/music/index.html"
   }
 ];
