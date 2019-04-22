@@ -16,28 +16,28 @@ self.__precacheManifest = [
     "url": "/music/static/media/icomusic.5e1ec529.svg"
   },
   {
-    "revision": "25e71e4c0e0c14493a4a",
-    "url": "/music/static/js/main.25e71e4c.chunk.js"
+    "revision": "74f2983179f86f67b6bf",
+    "url": "/music/static/js/main.74f29831.chunk.js"
   },
   {
-    "revision": "3207ca1a58ae1e36ad4bac122a6cfe9e",
-    "url": "/music/static/media/icomusic.3207ca1a.woff"
+    "revision": "344286e42d896e5f24add58e404a7f7a",
+    "url": "/music/static/media/icomusic.344286e4.eot"
   },
   {
     "revision": "d64a34b1f235eab1d76c",
     "url": "/music/static/js/3.d64a34b1.chunk.js"
   },
   {
-    "revision": "43d977f81ccc4293c4b630d780280c91",
-    "url": "/music/static/media/icomusic.43d977f8.ttf"
+    "revision": "3207ca1a58ae1e36ad4bac122a6cfe9e",
+    "url": "/music/static/media/icomusic.3207ca1a.woff"
   },
   {
     "revision": "291501c42811f4b6f63c",
     "url": "/music/static/js/4.291501c4.chunk.js"
   },
   {
-    "revision": "344286e42d896e5f24add58e404a7f7a",
-    "url": "/music/static/media/icomusic.344286e4.eot"
+    "revision": "43d977f81ccc4293c4b630d780280c91",
+    "url": "/music/static/media/icomusic.43d977f8.ttf"
   },
   {
     "revision": "0906ba8e2ee4521388a9",
@@ -68,8 +68,8 @@ self.__precacheManifest = [
     "url": "/music/static/js/8.b82e796c.chunk.js"
   },
   {
-    "revision": "6104199f370cf8cde62e",
-    "url": "/music/static/js/10.6104199f.chunk.js"
+    "revision": "500f0576c292efb1b485",
+    "url": "/music/static/js/10.500f0576.chunk.js"
   },
   {
     "revision": "98733fe0387be5f0f01b",
@@ -84,7 +84,7 @@ self.__precacheManifest = [
     "url": "/music/static/css/9.1bb1b83a.chunk.css"
   },
   {
-    "revision": "25e71e4c0e0c14493a4a",
+    "revision": "74f2983179f86f67b6bf",
     "url": "/music/static/css/main.fd842a6c.chunk.css"
   },
   {
@@ -116,7 +116,7 @@ self.__precacheManifest = [
     "url": "/music/static/css/1.89a40631.chunk.css"
   },
   {
-    "revision": "c1c9b1f456e40dcaeeb3450e21b829d2",
+    "revision": "91053ca1a9db3e1cb1ea80c1451d59e2",
     "url": "/music/index.html"
   }
 ];
